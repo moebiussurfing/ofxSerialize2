@@ -2,7 +2,7 @@
 
 #include "ofMain.h"
 
-namespace ofxSerialize
+namespace ofxSerialize2
 {
     class Serializer
     {

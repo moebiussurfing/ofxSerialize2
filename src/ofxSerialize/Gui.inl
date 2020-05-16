@@ -1,6 +1,6 @@
 #include "Gui.h"
 
-namespace ofxSerialize
+namespace ofxSerialize2
 {
 	//--------------------------------------------------------------
 	static Gui::WindowOpen windowOpen;

@@ -5,7 +5,7 @@
 
 static const int kGuiMargin = 10;
 
-namespace ofxSerialize
+namespace ofxSerialize2
 {	
     class Gui
 	{

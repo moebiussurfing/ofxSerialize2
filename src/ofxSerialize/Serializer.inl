@@ -1,6 +1,6 @@
 #include "Serializer.h"
 
-namespace ofxSerialize
+namespace ofxSerialize2
 {
 	//--------------------------------------------------------------
 	template<typename DataType>
